@@ -93,7 +93,7 @@ def overlay_textures_to_output_image(json_file_path, output_image_file_path, tex
     return 'Overlaying textures on the output image complete!.' + ' textures overlayed : ' + str(len(data))
     
 
-# we can use the following code to test the function or run the function from the command line
+
 def main( ):
     # accept the paramters as sys.argv and run the function
     print('\n')
